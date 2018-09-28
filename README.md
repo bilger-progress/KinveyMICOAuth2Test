@@ -1,2 +1,2 @@
 # KinveyMICOAuth2Test
-Testing authentication of Kinvey MIC service with LinkedIn.
+Kinvey MIC Authentication testing application.
